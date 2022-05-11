@@ -34,7 +34,8 @@ heroku/python
 ```
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
-``Recomended`` <a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+``Recomended`` 
+<a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
   
 ``OPTIONAL`` [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/DARKEMPIRESL/URLUPLOADER-BOT/issues/1#issue-1231476621)
